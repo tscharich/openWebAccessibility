@@ -91,6 +91,10 @@ A mode that simplifies webpage content to make it easily readable.
 ### Aria Tools
 * Simplifying setting up aria tags.
 
+### Language Tools
+* Multilingual Dictionary
+* Machine Translation Tools
+
 ### Easy Integration With *openWebAccessibilityStudio*
 * Supports accessibility profiles made with *openWebAccessibilityStudio*
 * Enables *openWebAccessibilityStudio* to understand better and integrate your site's accessibility.
